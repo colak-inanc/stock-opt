@@ -1,0 +1,117 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Sanal Ortam
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE ve Editör Dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Dağıtım/Paketleme
+*.manifest
+*.spec
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+wheels/
+
+# Unit test / coverage raporları
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Logs ve Veritabanları
+*.log
+*.sqlite
+*.db
+*.rdb
+
+# Sistem Dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Geçici Dosyalar
+*.tmp
+*.temp
+*.bak
+*.swp
+*~.nib
+
+# Proje Özel
+*.csv
+!requirements.txt
+output/
+results/
+temp/
+logs/
+
+# Güvenlik
+*.pem
+*.key
+*.cert
+.env*
+credentials.json
+config.json
+
+# Diğer
+*.pkl
+*.h5
+*.model
+.directory
+*.pyc
+__pycache__
+.pytest_cache/
+.coverage
+coverage.xml
+.python-version 
